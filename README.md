@@ -12,6 +12,8 @@ Our survey paper on deep learning-based visual place recognition contains detail
 
 ## Datasets used in VPR.
 
+This list summarizes public available datasets that can be used for visual place recognition. We devide them into multiple categories according to different research topics, for example, long-term, across-seasons, semantic VPR and so on. 
+
 | Topic             | Name                                                         | Year | Image type      | Environment     | Illumination       | Viewpoint          | Ground Truth       | Labels             | Extra Information |
 | ----------------- | ------------------------------------------------------------ | ---- | --------------- | --------------- | ------------------ | ------------------ | ------------------ | ------------------ | ----------------- |
 | Generic           | [New College and City Centre](http://www.robots.ox.ac.uk/~mobile/IJRR_2008_Dataset/data.html) [1] | 2008 | RGB             | Outdoor         | slight             | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | GPS               |
