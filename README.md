@@ -1,9 +1,12 @@
 # Awesome visual place recognition (VPR) datasets
-This repository provides a curated list of awesome datasets for **Visual Place Recognition (VPR)**, which is also called **loop closure detection (LCD)**. We will update the list if new VPR dataset is presented.
+This repository provides a curated list of awesome datasets for **Visual Place Recognition (VPR)**, which is also called **loop closure detection (LCD)**. It is a significant component in V-SLAM (Visual Simultaneous Localization and Mapping) systems. 
+
+We will update the list if new VPR dataset is presented.
 
 Our survey paper on deep learning-based visual place recognition contains detailed information about these datasets:
 > Xiwu Zhang, Lei Wang, and Yan Su. **Visual Place Recognition: A Survey From Deep Learning Perspective**. [_Pattern Recognition_](https://www.sciencedirect.com/journal/pattern-recognition), November 2020, doi: https://doi.org/10.1016/j.patcog.2020.107760.
 
+![Dataset examples](https://ars.els-cdn.com/content/image/1-s2.0-S003132032030563X-gr5_lrg.jpg)
 
 
 
@@ -12,7 +15,7 @@ Our survey paper on deep learning-based visual place recognition contains detail
 | Topic             | Name                                                         | Year | Image type      | Environment     | Illumination       | Viewpoint          | Ground Truth       | Labels             | Extra Information |
 | ----------------- | ------------------------------------------------------------ | ---- | --------------- | --------------- | ------------------ | ------------------ | ------------------ | ------------------ | ----------------- |
 | Generic           | [New College and City Centre](http://www.robots.ox.ac.uk/~mobile/IJRR_2008_Dataset/data.html) [1] | 2008 | RGB             | Outdoor         | slight             | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | GPS               |
-|                   | [New College Vision and Laser ](https://ori.ox.ac.uk/older-projects/new-college-dataset/) | 2009 | Gray\.          | Outdoor         | slight             | :heavy_check_mark: | :heavy_check_mark: |                    | GPS, IMU, LiDAR   |
+|                   | [New College Vision and Laser ](https://ori.ox.ac.uk/older-projects/new-college-dataset/) [2] | 2009 | Gray\.          | Outdoor         | slight             | :heavy_check_mark: | :heavy_check_mark: |                    | GPS, IMU, LiDAR   |
 |                   | [Rawseeds](http://www.rawseeds.org/home/)                    | 2006 | RGB             | Indoor/Outdoor  |                    | :heavy_check_mark: | :heavy_check_mark: |                    | GPS, LiDAR        |
 |                   | [Ford Campus](http://robots.engin.umich.edu/SoftwareData/Ford) | 2011 | RGB             | Urban           | slight             |                    | :heavy_check_mark: |                    | GPS, IMU, LiDAR   |
 |                   | [Malaga Parking 6L](https://www.mrpt.org/malaga_dataset_2009) | 2009 | RGB             | Outdoor         |                    |                    | :heavy_check_mark: |                    | GPS, IMU, LiDAR   |
@@ -51,7 +54,9 @@ Our survey paper on deep learning-based visual place recognition contains detail
 
 [1]  Cummins, M. & Newman, P. __FAB-MAP: Probabilistic Localization and Mapping in the Space of Appearance.__ The International Journal of Robotics Research, 2008, 27, 647-665 
 
+[2]  M. Smith, I. Baldwin, W. Churchill, R. Paul, P. Newman, The new college vi- sion and laser data set, Int. J. Rob. Res. 28 (5) (2009) 595–599, doi: 10.1177/ 0278364909103911 .
 
+---
 
 Citations to this work:
 ```
