@@ -1,7 +1,7 @@
 # Awesome visual place recognition (VPR) datasets
 This repository provides a curated list of awesome datasets for **Visual Place Recognition (VPR)**, which is also called **loop closure detection (LCD)**. It is a significant component in V-SLAM (Visual Simultaneous Localization and Mapping) systems. 
 
-We will update the list if new VPR dataset is presented.
+**We will update the list if new VPR dataset is presented.**
 
 Our survey paper on deep learning-based visual place recognition contains detailed information about these datasets:
 > Xiwu Zhang, Lei Wang, and Yan Su. **Visual Place Recognition: A Survey From Deep Learning Perspective**. [_Pattern Recognition_](https://www.sciencedirect.com/journal/pattern-recognition), November 2020, doi: https://doi.org/10.1016/j.patcog.2020.107760.
